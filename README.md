@@ -1,5 +1,5 @@
 This is a file encryption tool developed using Python
-AES has been used for file encryption
+Using AES has been used for file encryption
 
 GreeshGrypt.py is the main program which implements the File encryption and decryption using AES-CFB mode.
 Execute the GreeshGrypt.py file
