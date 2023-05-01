@@ -1,1 +1,2 @@
-# File-encryption-and-decryption-using-AES
+This is a file encryption tool developed using Python
+AES has been used for fil enscryption
